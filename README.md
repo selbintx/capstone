@@ -1,6 +1,6 @@
 #  PLANT GROWTH MONITORING CAPSTONE PROJECT
 
-![Plant Growth Monitoring](calibration-tests/humidity test/test settings/sample3.JPG "Plant Growth Monitoring")
+![Plant Growth Monitoring](calibration-tests/humidity-test/test-settings/sample3.JPG "Plant Growth Monitoring")
 
 This project represents the work of Bhavyasree, Darwin, and Selbin in creating a prototype Arduino setup that can monitor the luminosity, soil humidity and temperature.  This project contains sample code that allows the Arduino to interface with the light sensor, the thermometer, and the soil humidity measuring device.
 
