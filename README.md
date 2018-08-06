@@ -8,7 +8,16 @@ This project represents the work of Bhavyasree, Darwin, and Selbin in creating a
 
 Each of the peripherals was calibrated and tested in coniditions that are described in the calibration-tests directory.  A description of the calibrations tests from the photos is described below:
 
--  TODO:  Description of calibration test #1
--  TODO:  Description of calibration test #2
--  TODO:  Description of calibration test #3
--  TODO:  Description of calibration test #4
+ Testing of LDR #1
+			The testing of the LDR is done using the LUX meter, the light intensity is varied using the brightness controller in the class room
+			
+ Testing of the Temperature Sensor #2
+			The Temperature sensor is a digital sensor which did not require any calibration the testing was conducted placing the sensor in ice and hot water.
+			
+			
+
+	
+ Testing of the Soil Humidity Sensor#3
+			The testing of the soil humidity sensor is done using soil sample by changing the humidity by adding water.
+			
+			
